@@ -1,0 +1,2 @@
+{'id': '600b3666-4547-4a11-b33e-d9ee681e364a', 'nome': 'brocolis', 'preco': 4.0}
+{'id': '9dfc4cf7-4408-4dab-b0e2-7ddd6f5408d7', 'nome': 'arroz', 'preco': 3.0}
